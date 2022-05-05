@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/alokmish/hacker-news-feed)](https://repl.it/github/alokmish/hacker-news-feed)
+
 ## HackerNews Feed
 This is a simple React web app to search for a topic on HackerNews and get relevant posts.
 
